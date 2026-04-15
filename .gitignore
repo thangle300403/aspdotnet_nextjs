@@ -1,0 +1,17 @@
+# Frontend
+qlsv-frontend/node_modules/
+qlsv-frontend/.next/
+qlsv-frontend/.env.local
+qlsv-frontend/tsconfig.tsbuildinfo
+
+# Backend
+QLSV/bin/
+QLSV/obj/
+
+# IDE / OS
+.vs/
+.vscode/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
